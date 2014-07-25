@@ -1,0 +1,24 @@
+{
+  "name": "leapseconds",
+  "version": "1.0.0",
+  "description": "Calculates the leap seconds inserted before a given date.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benelsen/leaflet-terminator.git"
+  },
+  "keywords": [
+    "leap",
+    "seconds"
+  ],
+  "author": {
+    "name": "Ben Elsen",
+    "email": "mail@benelsen.com",
+    "url": "https://benelsen.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benelsen/leaflet-terminator/issues"
+  },
+  "homepage": "https://github.com/benelsen/leaflet-terminator"
+}

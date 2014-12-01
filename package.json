@@ -1,11 +1,11 @@
 {
   "name": "leapseconds",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Calculates the leap seconds inserted before a given date.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/benelsen/leaflet-terminator.git"
+    "url": "https://github.com/benelsen/leapseconds.git"
   },
   "keywords": [
     "leap",
@@ -18,7 +18,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benelsen/leaflet-terminator/issues"
+    "url": "https://github.com/benelsen/leapseconds/issues"
   },
-  "homepage": "https://github.com/benelsen/leaflet-terminator"
+  "homepage": "https://github.com/benelsen/leapseconds"
 }

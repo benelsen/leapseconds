@@ -1,6 +1,6 @@
 {
   "name": "leapseconds",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Calculates the leap seconds inserted before a given date.",
   "main": "index.js",
   "repository": {
